@@ -1,0 +1,2 @@
+# This is actually running with python :DD
+Program('hello_world.cpp')
